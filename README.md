@@ -1,3 +1,3 @@
 # kimpoo
 
-This is a reandom Django project.
+This is a random Django project.
